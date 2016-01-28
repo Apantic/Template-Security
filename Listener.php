@@ -12,6 +12,11 @@ class Apantic_TemplateSecurity_Listener
         $extend[] = 'Apantic_TemplateSecurity_DataWriter_Template';
     }
 
+    public static function extend_dw_template_modification($class, &$extend)
+    {
+        $extend[] = 'Apantic_TemplateSecurity_DataWriter_TemplateModification';
+    }
+
     public static function extend_dw_addon($class, &$extend)
     {
         $extend[] = 'Apantic_TemplateSecurity_DataWriter_AddOn';
