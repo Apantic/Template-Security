@@ -1,13 +1,13 @@
 # Template-Security
 Enhance the security on your site for yourself and for your members.
 
-https://www.apantic.com/products/template-security.14/
+Also see: https://xenforo.com/community/resources/n-template-security.5024/
 
 ## Contributing
 Feel free to make a pull request if you wish to contribute to this project.
 
 ## Legal Stuff
-   Copyright 2016, Apantic Limited
+   Copyright Apantic Limited
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
